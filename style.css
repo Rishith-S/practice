@@ -1,0 +1,44 @@
+img
+{
+    width:200px ;
+    border-radius: 1000px;
+    aspect-ratio: 1/1;
+    float: left;
+}
+.title
+{
+    color: rgb(137, 218, 221);
+}
+.education
+{
+    border-collapse: collapse;
+    width: 600px;
+    text-align: center;
+    height: 40px;
+}
+hr
+{
+    width: 100px;
+    border-collapse: collapse;
+    color: cadetblue;
+    border-bottom-style:none;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+}
+body
+{
+    background-color: rgb(12, 12, 12);
+    color: cadetblue;
+}
+.head
+{
+    text-align: center;
+    color: rgb(137, 218, 221);
+}
+.links
+{
+    width: 100px;
+    color: cadetblue;
+}
